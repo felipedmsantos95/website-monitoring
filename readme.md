@@ -1,7 +1,7 @@
 # Website Monitoring
 ## About
 
-A Golang application to monitore websites health.
+A Golang application to monitore websites health. The application reads a websites list in sites.txt, check if they responds and print logs in another .txt file.
 
 
 ## Requirements
